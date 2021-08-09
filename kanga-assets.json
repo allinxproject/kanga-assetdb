@@ -1,5 +1,5 @@
 {
-	"Version": 10100,
+	"Version": 10101,
 	"MainChainNum": 14,
 	"ChildChainNum": 1370,
 	"CoinInfos": [
@@ -12660,7 +12660,7 @@
 				"Name": "",
 				"Tokens": [
 					{
-						"Type": "ERC20",
+						"Type": "PRC20",
 						"Address": "0xC065B9d5A04E4C7503E14ee49c1e8895F6F5D41B",
 						"Name": "Wrapped PEC",
 						"Symbol": "WPEC",
@@ -12669,7 +12669,7 @@
 						"LogoURI": "https://resource.allinx.io/i/asset_logo/phoenix/0xC065B9d5A04E4C7503E14ee49c1e8895F6F5D41B.png"
 					},
 					{
-						"Type": "ERC20",
+						"Type": "PRC20",
 						"Address": "0xD13fc0C6A1c32b53b2303C1c0fB73881DB792A67",
 						"Name": "Tether USD",
 						"Symbol": "USDT",
@@ -12678,7 +12678,7 @@
 						"LogoURI": "https://resource.allinx.io/i/asset_logo/ethereum/0xdAC17F958D2ee523a2206206994597C13D831ec7.png"
 					},
 					{
-						"Type": "ERC20",
+						"Type": "PRC20",
 						"Address": "0xdC1a7112471775B8bE3aBD427313E3b1da2e74CB",
 						"Name": "Pumpkin Pie Coin",
 						"Symbol": "PIE",
