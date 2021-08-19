@@ -12685,6 +12685,33 @@
 						"Decimals": 18,
 						"Chainid": 1157,
 						"LogoURI": "https://resource.allinx.io/i/asset_logo/phoenix/0xdC1a7112471775B8bE3aBD427313E3b1da2e74CB.png"
+					},
+					{
+						"Type": "PRC20",
+						"Address": "0xd73FABd31d6c0D042315012F3262BB5d8ec59cDB",
+						"Name": "Phoenix-Peg BTC Token",
+						"Symbol": "BTC",
+						"Decimals": 18,
+						"Chainid": 1157,
+						"LogoURI": "https://resource.allinx.io/i/asset_logo/phoenix/0xd73FABd31d6c0D042315012F3262BB5d8ec59cDB.png"
+					},
+					{
+						"Type": "PRC20",
+						"Address": "0xAca3a6544CAb6A3c1094B87dbFe05bc49cAe6559",
+						"Name": "Phoenix-Peg ETH Token",
+						"Symbol": "ETH",
+						"Decimals": 18,
+						"Chainid": 1157,
+						"LogoURI": "https://resource.allinx.io/i/asset_logo/phoenix/0xAca3a6544CAb6A3c1094B87dbFe05bc49cAe6559.png"
+					},
+					{
+						"Type": "PRC20",
+						"Address": "0x4f87F08279599D7BDC809EF0aEBbD1ae544f77d7",
+						"Name": "Phoenix-Peg BNB Token",
+						"Symbol": "BNB",
+						"Decimals": 18,
+						"Chainid": 1157,
+						"LogoURI": "https://resource.allinx.io/i/asset_logo/phoenix/0x4f87F08279599D7BDC809EF0aEBbD1ae544f77d7.png"
 					}
 				]
 			},
