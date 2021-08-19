@@ -1,5 +1,5 @@
 {
-	"Version": 10101,
+	"Version": 10200,
 	"MainChainNum": 14,
 	"ChildChainNum": 1370,
 	"CoinInfos": [
@@ -12655,7 +12655,7 @@
 			"Decimals": 18,
 			"ExchangeFlag": 0,
 			"Defi": 0,
-			"AssetNum": 3,
+			"AssetNum": 6,
 			"Assets": {
 				"Name": "",
 				"Tokens": [
