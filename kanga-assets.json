@@ -1,5 +1,5 @@
 {
-	"Version": 10300,
+	"Version": 10400,
 	"MainChainNum": 14,
 	"ChildChainNum": 1370,
 	"CoinInfos": [
@@ -12682,7 +12682,7 @@
 						"Address": "0x797c8fD3f5C5285930d87bE0bC1a06f1Ea426f4f",
 						"Name": "Pumpkin Pie Coin",
 						"Symbol": "PIE",
-						"Decimals": 18,
+						"Decimals": 9,
 						"Chainid": 1157,
 						"LogoURI": "https://resource.allinx.io/i/asset_logo/phoenix/0x797c8fD3f5C5285930d87bE0bC1a06f1Ea426f4f.png"
 					},
