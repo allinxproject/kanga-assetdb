@@ -1,5 +1,5 @@
 {
-	"Version": 10400,
+	"Version": 10401,
 	"MainChainNum": 14,
 	"ChildChainNum": 1370,
 	"CoinInfos": [
@@ -9789,7 +9789,7 @@
 						"Symbol": "NXM",
 						"Decimals": 18,
 						"Chainid": 1,
-						"LogoURI": ""
+						"LogoURI": "https://coinalpha.app/images/coin/1_20210808055144.png"
 					},
 					{
 						"Type": "ERC20",
@@ -9798,7 +9798,7 @@
 						"Symbol": "REP",
 						"Decimals": 18,
 						"Chainid": 1,
-						"LogoURI": ""
+						"LogoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1104.png"
 					},
 					{
 						"Type": "ERC20",
@@ -9807,7 +9807,7 @@
 						"Symbol": "PLT",
 						"Decimals": 18,
 						"Chainid": 1,
-						"LogoURI": ""
+						"LogoURI": "https://nomics.com/_next/image?url=https%3A%2F%2Fs3.us-east-2.amazonaws.com%2Fnomics-api%2Fstatic%2Fimages%2Fcurrencies%2FPLT.png&w=48&q=75"
 					},
 					{
 						"Type": "ERC20",
@@ -9816,7 +9816,7 @@
 						"Symbol": "YAM",
 						"Decimals": 18,
 						"Chainid": 1,
-						"LogoURI": ""
+						"LogoURI": "https://ethplorer.io/images/YAM0e2298e3.png"
 					},
 					{
 						"Type": "ERC20",
@@ -9825,7 +9825,7 @@
 						"Symbol": "YFV",
 						"Decimals": 18,
 						"Chainid": 1,
-						"LogoURI": ""
+						"LogoURI": "https://ethplorer.io/images/YFV45f24bae.jpg"
 					},
 					{
 						"Type": "ERC20",
@@ -9834,7 +9834,7 @@
 						"Symbol": "OM",
 						"Decimals": 18,
 						"Chainid": 1,
-						"LogoURI": ""
+						"LogoURI": "https://ethplorer.io/images/OM2baecdf4.png"
 					},
 					{
 						"Type": "ERC20",
@@ -9843,7 +9843,7 @@
 						"Symbol": "LIEN",
 						"Decimals": 8,
 						"Chainid": 1,
-						"LogoURI": ""
+						"LogoURI": "https://ethplorer.io/images/LIENab37e135.png"
 					},
 					{
 						"Type": "ERC20",
@@ -9852,7 +9852,7 @@
 						"Symbol": "sBTC",
 						"Decimals": 18,
 						"Chainid": 1,
-						"LogoURI": ""
+						"LogoURI": "https://ethplorer.io/images/SBTCfe18be6b.png"
 					},
 					{
 						"Type": "ERC20",
@@ -9861,7 +9861,7 @@
 						"Symbol": "cUSDT",
 						"Decimals": 8,
 						"Chainid": 1,
-						"LogoURI": ""
+						"LogoURI": "https://ethplorer.io/images/CUSDTf650c3d8.png"
 					},
 					{
 						"Type": "ERC20",
@@ -9870,7 +9870,7 @@
 						"Symbol": "cWBTC",
 						"Decimals": 8,
 						"Chainid": 1,
-						"LogoURI": ""
+						"LogoURI": "https://ethplorer.io/images/CWBTCc11b1268.png"
 					},
 					{
 						"Type": "ERC20",
@@ -9879,7 +9879,7 @@
 						"Symbol": "cREP",
 						"Decimals": 8,
 						"Chainid": 1,
-						"LogoURI": ""
+						"LogoURI": "https://ethplorer.io/images/CREP158079ee.png"
 					},
 					{
 						"Type": "ERC20",
@@ -9888,7 +9888,7 @@
 						"Symbol": "sDEFI",
 						"Decimals": 18,
 						"Chainid": 1,
-						"LogoURI": ""
+						"LogoURI": "https://ethplorer.io/images/SDEFIe1afe1fd.png"
 					},
 					{
 						"Type": "ERC20",
@@ -9897,7 +9897,7 @@
 						"Symbol": "iETH",
 						"Decimals": 18,
 						"Chainid": 1,
-						"LogoURI": ""
+						"LogoURI": "https://ethplorer.io/images/IETHa9859874.png"
 					},
 					{
 						"Type": "ERC20",
@@ -9906,7 +9906,7 @@
 						"Symbol": "YAX",
 						"Decimals": 18,
 						"Chainid": 1,
-						"LogoURI": ""
+						"LogoURI": "https://ethplorer.io/images/YAXb1dc9124.png"
 					},
 					{
 						"Type": "ERC20",
@@ -9915,7 +9915,7 @@
 						"Symbol": "wLOKI",
 						"Decimals": 9,
 						"Chainid": 1,
-						"LogoURI": ""
+						"LogoURI": "https://ww7.etherscan.io/token/images/chainflip_32.png"
 					},
 					{
 						"Type": "ERC20",
@@ -9924,7 +9924,7 @@
 						"Symbol": "EASY",
 						"Decimals": 18,
 						"Chainid": 1,
-						"LogoURI": ""
+						"LogoURI": "https://ethplorer.io/images/EASY913d8adf.png"
 					},
 					{
 						"Type": "ERC20",
@@ -9933,7 +9933,7 @@
 						"Symbol": "CRB",
 						"Decimals": 8,
 						"Chainid": 1,
-						"LogoURI": ""
+						"LogoURI": "https://ethplorer.io/images/CRBaef38fbf.png"
 					},
 					{
 						"Type": "ERC20",
@@ -9942,7 +9942,7 @@
 						"Symbol": "ELIX",
 						"Decimals": 18,
 						"Chainid": 1,
-						"LogoURI": ""
+						"LogoURI": "https://nomics.com/_next/image?url=https%3A%2F%2Fs3.us-east-2.amazonaws.com%2Fnomics-api%2Fstatic%2Fimages%2Fcurrencies%2FELIX.png&w=48&q=75"
 					},
 					{
 						"Type": "ERC20",
@@ -9951,7 +9951,7 @@
 						"Symbol": "AIR",
 						"Decimals": 8,
 						"Chainid": 1,
-						"LogoURI": ""
+						"LogoURI": "https://ih.advfn.com/cdn/crypto/logos/125/T700236019.png"
 					},
 					{
 						"Type": "ERC20",
@@ -9960,7 +9960,7 @@
 						"Symbol": "AURA",
 						"Decimals": 18,
 						"Chainid": 1,
-						"LogoURI": ""
+						"LogoURI": "https://cmc.io/img/coin_icons/128x128/aurora-dao.png"
 					},
 					{
 						"Type": "ERC20",
@@ -9969,7 +9969,7 @@
 						"Symbol": "aBAT",
 						"Decimals": 18,
 						"Chainid": 1,
-						"LogoURI": ""
+						"LogoURI": "https://ethplorer.io/images/ABATe1ba0fb4.png"
 					},
 					{
 						"Type": "ERC20",
@@ -9978,7 +9978,7 @@
 						"Symbol": "aMANA",
 						"Decimals": 18,
 						"Chainid": 1,
-						"LogoURI": ""
+						"LogoURI": "https://ethplorer.io/images/AMANA6fce4a40.png"
 					},
 					{
 						"Type": "ERC20",
@@ -9987,7 +9987,7 @@
 						"Symbol": "aUSDT",
 						"Decimals": 6,
 						"Chainid": 1,
-						"LogoURI": ""
+						"LogoURI": "https://ethplorer.io/images/AUSDT71fc860f.png"
 					},
 					{
 						"Type": "ERC20",
@@ -9996,7 +9996,7 @@
 						"Symbol": "sEOS",
 						"Decimals": 18,
 						"Chainid": 1,
-						"LogoURI": ""
+						"LogoURI": "https://ethplorer.io/images/SEOS88c8cf3a.png"
 					},
 					{
 						"Type": "ERC20",
@@ -10005,7 +10005,7 @@
 						"Symbol": "rDAI",
 						"Decimals": 18,
 						"Chainid": 1,
-						"LogoURI": ""
+						"LogoURI": "https://ethplorer.io/images/RDAI261b45d8.png"
 					},
 					{
 						"Type": "ERC20",
@@ -10014,7 +10014,7 @@
 						"Symbol": "iADA",
 						"Decimals": 18,
 						"Chainid": 1,
-						"LogoURI": ""
+						"LogoURI": "https://ethplorer.io/images/IADA8a8079c7.png"
 					},
 					{
 						"Type": "ERC20",
@@ -10023,7 +10023,7 @@
 						"Symbol": "iXMR",
 						"Decimals": 18,
 						"Chainid": 1,
-						"LogoURI": ""
+						"LogoURI": "https://ethplorer.io/images/IXMR4adf728e.png"
 					},
 					{
 						"Type": "ERC20",
@@ -10032,7 +10032,7 @@
 						"Symbol": "iBCH",
 						"Decimals": 18,
 						"Chainid": 1,
-						"LogoURI": ""
+						"LogoURI": "https://ethplorer.io/images/IBCHf6e9b246.png"
 					},
 					{
 						"Type": "ERC20",
@@ -10041,7 +10041,7 @@
 						"Symbol": "iEOS",
 						"Decimals": 18,
 						"Chainid": 1,
-						"LogoURI": ""
+						"LogoURI": "https://ethplorer.io/images/IEOSf4eebdd0.png"
 					},
 					{
 						"Type": "ERC20",
@@ -10050,7 +10050,7 @@
 						"Symbol": "ADEL",
 						"Decimals": 18,
 						"Chainid": 1,
-						"LogoURI": ""
+						"LogoURI": "https://ethplorer.io/images/ADEL94d86317.png"
 					},
 					{
 						"Type": "ERC20",
@@ -10059,7 +10059,7 @@
 						"Symbol": "DUSD",
 						"Decimals": 18,
 						"Chainid": 1,
-						"LogoURI": ""
+						"LogoURI": "https://ethplorer.io/images/DUSD5bc25f64.png"
 					},
 					{
 						"Type": "ERC20",
@@ -10068,7 +10068,7 @@
 						"Symbol": "SASHIMI",
 						"Decimals": 18,
 						"Chainid": 1,
-						"LogoURI": ""
+						"LogoURI": "https://ethplorer.io/images/SASHIMIc28e2787.jpg"
 					},
 					{
 						"Type": "ERC20",
@@ -10077,7 +10077,7 @@
 						"Symbol": "DOUGH",
 						"Decimals": 18,
 						"Chainid": 1,
-						"LogoURI": ""
+						"LogoURI": "https://ethplorer.io/images/DOUGHad32a8e6.png"
 					},
 					{
 						"Type": "ERC20",
@@ -10086,7 +10086,7 @@
 						"Symbol": "DFD",
 						"Decimals": 18,
 						"Chainid": 1,
-						"LogoURI": ""
+						"LogoURI": "https://ethplorer.io/images/DFD20c36f06.jpg"
 					},
 					{
 						"Type": "ERC20",
@@ -10095,7 +10095,7 @@
 						"Symbol": "ibETH",
 						"Decimals": 18,
 						"Chainid": 1,
-						"LogoURI": ""
+						"LogoURI": "https://ethplorer.io/images/IBETH67b66c99.png"
 					},
 					{
 						"Type": "ERC20",
@@ -10104,7 +10104,7 @@
 						"Symbol": "VOLTS",
 						"Decimals": 18,
 						"Chainid": 1,
-						"LogoURI": ""
+						"LogoURI": "https://ethplorer.io/images/VOLTS14d1c83d.png"
 					},
 					{
 						"Type": "ERC20",
@@ -10113,7 +10113,7 @@
 						"Symbol": "ORO",
 						"Decimals": 18,
 						"Chainid": 1,
-						"LogoURI": ""
+						"LogoURI": "https://ethplorer.io/images/OROc3eb2622.png"
 					},
 					{
 						"Type": "ERC20",
@@ -10580,7 +10580,7 @@
 						"Symbol": "BAKE",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0xe02df9e3e622debdd69fb838bb799e3f168902c5.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5.png"
 					},
 					{
 						"Type": "BEP20",
@@ -10589,7 +10589,7 @@
 						"Symbol": "ONT",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0xfd7b3a77848f1c2d67e05e54d78d174a0c850335.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0xfd7b3a77848f1c2d67e05e54d78d174a0c850335.png"
 					},
 					{
 						"Type": "BEP20",
@@ -10598,7 +10598,7 @@
 						"Symbol": "ZEC",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb.png"
 					},
 					{
 						"Type": "BEP20",
@@ -10607,7 +10607,7 @@
 						"Symbol": "YFII",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x7f70642d88cf1c4a3a7abb072b53b929b653eda5.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x7f70642d88cf1c4a3a7abb072b53b929b653eda5.png"
 					},
 					{
 						"Type": "BEP20",
@@ -10616,7 +10616,7 @@
 						"Symbol": "CREAM",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0xd4cb328a82bdf5f03eb737f37fa6b370aef3e888.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0xd4cb328a82bdf5f03eb737f37fa6b370aef3e888.png"
 					},
 					{
 						"Type": "BEP20",
@@ -10625,7 +10625,7 @@
 						"Symbol": "PROM",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0xaf53d56ff99f1322515e54fdde93ff8b3b7dafd5.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0xaf53d56ff99f1322515e54fdde93ff8b3b7dafd5.png"
 					},
 					{
 						"Type": "BEP20",
@@ -10634,7 +10634,7 @@
 						"Symbol": "CAN",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x007ea5c0ea75a8df45d288a4debdd5bb633f9e56.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x007ea5c0ea75a8df45d288a4debdd5bb633f9e56.png"
 					},
 					{
 						"Type": "BEP20",
@@ -10643,7 +10643,7 @@
 						"Symbol": "STM",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x90df11a8cce420675e73922419e3f4f3fe13cccb.png"
+						"LogoURI": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/STMBEP20.jpg"
 					},
 					{
 						"Type": "BEP20",
@@ -10652,7 +10652,7 @@
 						"Symbol": "ANKR",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0xf307910a4c7bbc79691fd374889b36d8531b08e3.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0xf307910a4c7bbc79691fd374889b36d8531b08e3.png"
 					},
 					{
 						"Type": "BEP20",
@@ -10661,7 +10661,7 @@
 						"Symbol": "BURGER",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0xae9269f27437f0fcbc232d39ec814844a51d6b8f.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0xae9269f27437f0fcbc232d39ec814844a51d6b8f.png"
 					},
 					{
 						"Type": "BEP20",
@@ -10670,7 +10670,7 @@
 						"Symbol": "DICE",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x748ad98b14c814b28812eb42ad219c8672909879.png"
+						"LogoURI": "https://coindataflow.com/uploads/coins/dice-finance.png?ts=1626609809"
 					},
 					{
 						"Type": "BEP20",
@@ -10679,7 +10679,7 @@
 						"Symbol": "JNTR/b",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x3c037c4c2296f280bb318d725d0b454b76c199b9.png"
+						"LogoURI": "https://coindataflow.com/uploads/coins/jntrb.jpg?ts=1602838850"
 					},
 					{
 						"Type": "BEP20",
@@ -10688,7 +10688,7 @@
 						"Symbol": "SPART",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0xe4ae305ebe1abe663f261bc00534067c80ad677c.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0xe4ae305ebe1abe663f261bc00534067c80ad677c.png"
 					},
 					{
 						"Type": "BEP20",
@@ -10706,7 +10706,7 @@
 						"Symbol": "FRIES",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x393B312C01048b3ed2720bF1B090084C09e408A1.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x393B312C01048b3ed2720bF1B090084C09e408A1.png"
 					},
 					{
 						"Type": "BEP20",
@@ -10715,7 +10715,7 @@
 						"Symbol": "STAX",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x0da6ed8b13214ff28e9ca979dd37439e8a88f6c4.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x0da6ed8b13214ff28e9ca979dd37439e8a88f6c4.png"
 					},
 					{
 						"Type": "BEP20",
@@ -10724,7 +10724,7 @@
 						"Symbol": "KAVA",
 						"Decimals": 6,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x5F88AB06e8dfe89DF127B2430Bba4Af600866035.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x5F88AB06e8dfe89DF127B2430Bba4Af600866035.png"
 					},
 					{
 						"Type": "BEP20",
@@ -10733,7 +10733,7 @@
 						"Symbol": "USDX",
 						"Decimals": 6,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x1203355742e76875154c0d13eb81dcd7711dc7d9.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x1203355742e76875154c0d13eb81dcd7711dc7d9.png"
 					},
 					{
 						"Type": "BEP20",
@@ -10742,7 +10742,7 @@
 						"Symbol": "USDC",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d.png"
 					},
 					{
 						"Type": "BEP20",
@@ -10751,7 +10751,7 @@
 						"Symbol": "NAR",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0xa1303e6199b319a891b79685f0537d289af1fc83.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0xa1303e6199b319a891b79685f0537d289af1fc83.png"
 					},
 					{
 						"Type": "BEP20",
@@ -10760,7 +10760,7 @@
 						"Symbol": "NYA",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0xbfa0841f7a90c4ce6643f651756ee340991f99d5.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0xbfa0841f7a90c4ce6643f651756ee340991f99d5.png"
 					},
 					{
 						"Type": "BEP20",
@@ -10769,7 +10769,7 @@
 						"Symbol": "DANGO",
 						"Decimals": 6,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x0957c57c9eb7744850dcc95db5a06ed4a246236e.png"
+						"LogoURI": "https://coindataflow.com/uploads/coins/dango.png?ts=1604394026"
 					},
 					{
 						"Type": "BEP20",
@@ -10778,7 +10778,7 @@
 						"Symbol": "bROOBEE",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0xe64f5cb844946c1f102bd25bbd87a5ab4ae89fbe.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0xe64f5cb844946c1f102bd25bbd87a5ab4ae89fbe.png"
 					},
 					{
 						"Type": "BEP20",
@@ -10787,7 +10787,7 @@
 						"Symbol": "QUSD",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0xb8C540d00dd0Bf76ea12E4B4B95eFC90804f924E.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0xb8C540d00dd0Bf76ea12E4B4B95eFC90804f924E.png"
 					},
 					{
 						"Type": "BEP20",
@@ -10796,7 +10796,7 @@
 						"Symbol": "KUN",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x1A2fb0Af670D0234c2857FaD35b789F8Cb725584.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x1A2fb0Af670D0234c2857FaD35b789F8Cb725584.png"
 					},
 					{
 						"Type": "BEP20",
@@ -10805,7 +10805,7 @@
 						"Symbol": "JUV",
 						"Decimals": 2,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0xc40c9a843e1c6d01b7578284a9028854f6683b1b.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0xc40c9a843e1c6d01b7578284a9028854f6683b1b.png"
 					},
 					{
 						"Type": "BEP20",
@@ -10814,7 +10814,7 @@
 						"Symbol": "PSG",
 						"Decimals": 2,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0xbc5609612b7c44bef426de600b5fd1379db2ecf1.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0xbc5609612b7c44bef426de600b5fd1379db2ecf1.png"
 					},
 					{
 						"Type": "BEP20",
@@ -10823,7 +10823,7 @@
 						"Symbol": "MATH",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0xf218184af829cf2b0019f8e6f0b2423498a36983.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0xf218184af829cf2b0019f8e6f0b2423498a36983.png"
 					},
 					{
 						"Type": "BEP20",
@@ -10832,7 +10832,7 @@
 						"Symbol": "NULS",
 						"Decimals": 8,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x8cd6e29d3686d24d3c2018cee54621ea0f89313b.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x8cd6e29d3686d24d3c2018cee54621ea0f89313b.png"
 					},
 					{
 						"Type": "BEP20",
@@ -10841,7 +10841,7 @@
 						"Symbol": "NVT",
 						"Decimals": 8,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0xf0e406c49c63abf358030a299c0e00118c4c6ba5.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0xf0e406c49c63abf358030a299c0e00118c4c6ba5.png"
 					},
 					{
 						"Type": "BEP20",
@@ -10850,7 +10850,7 @@
 						"Symbol": "OG",
 						"Decimals": 2,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0xf05e45ad22150677a017fbd94b84fbb63dc9b44c.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0xf05e45ad22150677a017fbd94b84fbb63dc9b44c.png"
 					},
 					{
 						"Type": "BEP20",
@@ -10859,7 +10859,7 @@
 						"Symbol": "ATM",
 						"Decimals": 2,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x25e9d05365c867e59c1904e7463af9f312296f9e.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x25e9d05365c867e59c1904e7463af9f312296f9e.png"
 					},
 					{
 						"Type": "BEP20",
@@ -10868,7 +10868,7 @@
 						"Symbol": "ASR",
 						"Decimals": 2,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x80d5f92c2c8c682070c95495313ddb680b267320.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x80d5f92c2c8c682070c95495313ddb680b267320.png"
 					},
 					{
 						"Type": "BEP20",
@@ -10877,7 +10877,7 @@
 						"Symbol": "TEN",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0xdff8cb622790b7f92686c722b02cab55592f152c.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0xdff8cb622790b7f92686c722b02cab55592f152c.png"
 					},
 					{
 						"Type": "BEP20",
@@ -10886,7 +10886,7 @@
 						"Symbol": "wSOTE",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x541e619858737031a1244a5d0cd47e5ef480342c.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x541e619858737031a1244a5d0cd47e5ef480342c.png"
 					},
 					{
 						"Type": "BEP20",
@@ -10895,7 +10895,7 @@
 						"Symbol": "mTSLA",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0xF215A127A196e3988C09d052e16BcFD365Cd7AA3.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0xF215A127A196e3988C09d052e16BcFD365Cd7AA3.png"
 					},
 					{
 						"Type": "BEP20",
@@ -10904,7 +10904,7 @@
 						"Symbol": "mAMZN",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x3947B992DC0147D2D89dF0392213781b04B25075.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x3947B992DC0147D2D89dF0392213781b04B25075.png"
 					},
 					{
 						"Type": "BEP20",
@@ -10913,7 +10913,7 @@
 						"Symbol": "mNFLX",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0xa04F060077D90Fe2647B61e4dA4aD1F97d6649dc.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0xa04F060077D90Fe2647B61e4dA4aD1F97d6649dc.png"
 					},
 					{
 						"Type": "BEP20",
@@ -10922,7 +10922,7 @@
 						"Symbol": "mGOOGL",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x62D71B23bF15218C7d2D7E48DBbD9e9c650B173f.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x62D71B23bF15218C7d2D7E48DBbD9e9c650B173f.png"
 					},
 					{
 						"Type": "BEP20",
@@ -10931,7 +10931,7 @@
 						"Symbol": "BFI",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x81859801b01764D4f0Fa5E64729f5a6C3b91435b.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x81859801b01764D4f0Fa5E64729f5a6C3b91435b.png"
 					},
 					{
 						"Type": "BEP20",
@@ -10940,7 +10940,7 @@
 						"Symbol": "sBDO",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x0d9319565be7f53CeFE84Ad201Be3f40feAE2740.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x0d9319565be7f53CeFE84Ad201Be3f40feAE2740.png"
 					},
 					{
 						"Type": "BEP20",
@@ -10949,7 +10949,7 @@
 						"Symbol": "AUTO",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0xa184088a740c695e156f91f5cc086a06bb78b827.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0xa184088a740c695e156f91f5cc086a06bb78b827.png"
 					},
 					{
 						"Type": "BEP20",
@@ -10958,7 +10958,7 @@
 						"Symbol": "HGET",
 						"Decimals": 6,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0xC7d8D35EBA58a0935ff2D5a33Df105DD9f071731.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0xC7d8D35EBA58a0935ff2D5a33Df105DD9f071731.png"
 					},
 					{
 						"Type": "BEP20",
@@ -10967,7 +10967,7 @@
 						"Symbol": "LIT",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0xb59490ab09a0f526cc7305822ac65f2ab12f9723.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0xb59490ab09a0f526cc7305822ac65f2ab12f9723.png"
 					},
 					{
 						"Type": "BEP20",
@@ -10976,7 +10976,7 @@
 						"Symbol": "LINA",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x762539b45a1dcce3d36d080f74d1aed37844b878.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x762539b45a1dcce3d36d080f74d1aed37844b878.png"
 					},
 					{
 						"Type": "BEP20",
@@ -10985,7 +10985,7 @@
 						"Symbol": "BETH",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x250632378e573c6be1ac2f97fcdf00515d0aa91b.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x250632378e573c6be1ac2f97fcdf00515d0aa91b.png"
 					},
 					{
 						"Type": "BEP20",
@@ -10994,7 +10994,7 @@
 						"Symbol": "lUSD",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x23e8a70534308a4AAF76fb8C32ec13d17a3BD89e.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x23e8a70534308a4AAF76fb8C32ec13d17a3BD89e.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11003,7 +11003,7 @@
 						"Symbol": "SFP",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11012,7 +11012,7 @@
 						"Symbol": "COMP",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x52ce071bd9b1c4b00a0b92d298c512478cad67e8.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x52ce071bd9b1c4b00a0b92d298c512478cad67e8.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11021,7 +11021,7 @@
 						"Symbol": "SWGb",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0xe40255c5d7fa7ceec5120408c78c787cecb4cfdb.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0xe40255c5d7fa7ceec5120408c78c787cecb4cfdb.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11030,7 +11030,7 @@
 						"Symbol": "renBTC",
 						"Decimals": 8,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0xfCe146bF3146100cfe5dB4129cf6C82b0eF4Ad8c.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0xfCe146bF3146100cfe5dB4129cf6C82b0eF4Ad8c.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11039,7 +11039,7 @@
 						"Symbol": "renDOGE",
 						"Decimals": 8,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0xc3fed6eb39178a541d274e6fc748d48f0ca01cc3.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0xc3fed6eb39178a541d274e6fc748d48f0ca01cc3.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11048,7 +11048,7 @@
 						"Symbol": "anyMTLX",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x5921dee8556c4593eefcfad3ca5e2f618606483b.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x5921dee8556c4593eefcfad3ca5e2f618606483b.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11057,7 +11057,7 @@
 						"Symbol": "ZEE",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x44754455564474a89358b2c2265883df993b12f0.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x44754455564474a89358b2c2265883df993b12f0.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11066,7 +11066,7 @@
 						"Symbol": "BRY",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0xf859Bf77cBe8699013d6Dbc7C2b926Aaf307F830.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0xf859Bf77cBe8699013d6Dbc7C2b926Aaf307F830.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11075,7 +11075,7 @@
 						"Symbol": "SWINGBY",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x71DE20e0C4616E7fcBfDD3f875d568492cBE4739.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x71DE20e0C4616E7fcBfDD3f875d568492cBE4739.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11084,7 +11084,7 @@
 						"Symbol": "DODO",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x67ee3cb086f8a16f34bee3ca72fad36f7db929e2.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x67ee3cb086f8a16f34bee3ca72fad36f7db929e2.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11093,7 +11093,7 @@
 						"Symbol": "SUSHI",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x947950bcc74888a40ffa2593c5798f11fc9124c4.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x947950bcc74888a40ffa2593c5798f11fc9124c4.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11102,7 +11102,7 @@
 						"Symbol": "bOPEN",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0xF35262a9d427F96d2437379eF090db986eaE5d42.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0xF35262a9d427F96d2437379eF090db986eaE5d42.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11111,7 +11111,7 @@
 						"Symbol": "BOR",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x92d7756c60dcfd4c689290e8a9f4d263b3b32241.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x92d7756c60dcfd4c689290e8a9f4d263b3b32241.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11120,7 +11120,7 @@
 						"Symbol": "renZEC",
 						"Decimals": 8,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x695FD30aF473F2960e81Dc9bA7cB67679d35EDb7.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x695FD30aF473F2960e81Dc9bA7cB67679d35EDb7.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11129,7 +11129,7 @@
 						"Symbol": "bMXX",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x4131b87f74415190425ccd873048c708f8005823.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x4131b87f74415190425ccd873048c708f8005823.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11138,7 +11138,7 @@
 						"Symbol": "IOTX",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x9678e42cebeb63f23197d726b29b1cb20d0064e5.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x9678e42cebeb63f23197d726b29b1cb20d0064e5.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11147,7 +11147,7 @@
 						"Symbol": "xMARK",
 						"Decimals": 9,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x26a5dfab467d4f58fb266648cae769503cec9580.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x26a5dfab467d4f58fb266648cae769503cec9580.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11156,7 +11156,7 @@
 						"Symbol": "TPT",
 						"Decimals": 4,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0xeca41281c24451168a37211f0bc2b8645af45092.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0xeca41281c24451168a37211f0bc2b8645af45092.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11165,7 +11165,7 @@
 						"Symbol": "WATCH",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x7a9f28eb62c791422aa23ceae1da9c847cbec9b0.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x7a9f28eb62c791422aa23ceae1da9c847cbec9b0.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11174,7 +11174,7 @@
 						"Symbol": "BEL",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x8443f091997f06a61670b735ed92734f5628692f.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x8443f091997f06a61670b735ed92734f5628692f.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11183,7 +11183,7 @@
 						"Symbol": "DEXE",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x039cb485212f996a9dbb85a9a75d898f94d38da6.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x039cb485212f996a9dbb85a9a75d898f94d38da6.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11192,7 +11192,7 @@
 						"Symbol": "RAMP",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x8519ea49c997f50ceffa444d240fb655e89248aa.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x8519ea49c997f50ceffa444d240fb655e89248aa.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11201,7 +11201,7 @@
 						"Symbol": "BELT",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0xE0e514c71282b6f4e823703a39374Cf58dc3eA4f.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0xE0e514c71282b6f4e823703a39374Cf58dc3eA4f.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11210,7 +11210,7 @@
 						"Symbol": "BAT",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x101d82428437127bf1608f699cd651e6abf9766e.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x101d82428437127bf1608f699cd651e6abf9766e.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11219,7 +11219,7 @@
 						"Symbol": "BUX",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x211ffbe424b90e25a15531ca322adf1559779e45.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x211ffbe424b90e25a15531ca322adf1559779e45.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11228,7 +11228,7 @@
 						"Symbol": "FOR",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x658A109C5900BC6d2357c87549B651670E5b0539.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x658A109C5900BC6d2357c87549B651670E5b0539.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11237,7 +11237,7 @@
 						"Symbol": "ALICE",
 						"Decimals": 6,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0xac51066d7bec65dc4589368da368b212745d63e8.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0xac51066d7bec65dc4589368da368b212745d63e8.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11246,7 +11246,7 @@
 						"Symbol": "BUNNY",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0xc9849e6fdb743d08faee3e34dd2d1bc69ea11a51.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0xc9849e6fdb743d08faee3e34dd2d1bc69ea11a51.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11255,7 +11255,7 @@
 						"Symbol": "DEGO",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x3fda9383a84c05ec8f7630fe10adf1fac13241cc.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x3fda9383a84c05ec8f7630fe10adf1fac13241cc.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11264,7 +11264,7 @@
 						"Symbol": "LTO",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x857b222fc79e1cbbf8ca5f78cb133d1b7cf34bbd.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x857b222fc79e1cbbf8ca5f78cb133d1b7cf34bbd.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11273,7 +11273,7 @@
 						"Symbol": "COS",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x96dd399f9c3afda1f194182f71600f1b65946501.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x96dd399f9c3afda1f194182f71600f1b65946501.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11282,7 +11282,7 @@
 						"Symbol": "TXL",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x1ffd0b47127fdd4097e54521c9e2c7f0d66aafc5.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x1ffd0b47127fdd4097e54521c9e2c7f0d66aafc5.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11291,7 +11291,7 @@
 						"Symbol": "ALPACA",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x8f0528ce5ef7b51152a59745befdd91d97091d2f.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x8f0528ce5ef7b51152a59745befdd91d97091d2f.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11300,7 +11300,7 @@
 						"Symbol": "DUSK",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0xb2bd0749dbe21f623d9baba856d3b0f0e1bfec9c.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0xb2bd0749dbe21f623d9baba856d3b0f0e1bfec9c.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11309,7 +11309,7 @@
 						"Symbol": "bDIGG",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x5986d5c77c65e5801a5caa4fae80089f870a71da.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x5986d5c77c65e5801a5caa4fae80089f870a71da.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11318,7 +11318,7 @@
 						"Symbol": "bBADGER",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x1f7216fdb338247512ec99715587bb97bbf96eae.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x1f7216fdb338247512ec99715587bb97bbf96eae.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11327,7 +11327,7 @@
 						"Symbol": "TRADE",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x7af173f350d916358af3e218bdf2178494beb748.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x7af173f350d916358af3e218bdf2178494beb748.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11336,7 +11336,7 @@
 						"Symbol": "PNT",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x7a1da9f49224ef98389b071b8a3294d1cc5e3e6a.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x7a1da9f49224ef98389b071b8a3294d1cc5e3e6a.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11345,7 +11345,7 @@
 						"Symbol": "pBTC",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0xed28a457a5a76596ac48d87c0f577020f6ea1c4c.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0xed28a457a5a76596ac48d87c0f577020f6ea1c4c.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11354,7 +11354,7 @@
 						"Symbol": "MIR",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x5b6dcf557e2abe2323c48445e8cc948910d8c2c9.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x5b6dcf557e2abe2323c48445e8cc948910d8c2c9.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11363,7 +11363,7 @@
 						"Symbol": "pCWS",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0xbcf39f0edda668c58371e519af37ca705f2bfcbd.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0xbcf39f0edda668c58371e519af37ca705f2bfcbd.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11372,7 +11372,7 @@
 						"Symbol": "ZIL",
 						"Decimals": 12,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0xb86abcb37c3a4b64f74f59301aff131a1becc787.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0xb86abcb37c3a4b64f74f59301aff131a1becc787.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11381,7 +11381,7 @@
 						"Symbol": "LIEN",
 						"Decimals": 8,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x5d684adaf3fcfe9cfb5cede3abf02f0cdd1012e3.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x5d684adaf3fcfe9cfb5cede3abf02f0cdd1012e3.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11390,7 +11390,7 @@
 						"Symbol": "SWTH",
 						"Decimals": 8,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x250b211EE44459dAd5Cd3bCa803dD6a7EcB5d46C.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x250b211EE44459dAd5Cd3bCa803dD6a7EcB5d46C.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11399,7 +11399,7 @@
 						"Symbol": "EPS",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0xa7f552078dcc247c2684336020c03648500c6d9f.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0xa7f552078dcc247c2684336020c03648500c6d9f.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11408,7 +11408,7 @@
 						"Symbol": "DFT",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x42712dF5009c20fee340B245b510c0395896cF6e.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x42712dF5009c20fee340B245b510c0395896cF6e.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11417,7 +11417,7 @@
 						"Symbol": "GUM",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0xc53708664b99DF348dd27C3Ac0759d2DA9c40462.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0xc53708664b99DF348dd27C3Ac0759d2DA9c40462.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11426,7 +11426,7 @@
 						"Symbol": "ONE",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x03ff0ff224f904be3118461335064bb48df47938.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x03ff0ff224f904be3118461335064bb48df47938.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11435,7 +11435,7 @@
 						"Symbol": "NRV",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x42f6f551ae042cbe50c739158b4f0cac0edb9096.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x42f6f551ae042cbe50c739158b4f0cac0edb9096.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11444,7 +11444,7 @@
 						"Symbol": "EASY",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x7c17c8bed8d14bacce824d020f994f4880d6ab3b.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x7c17c8bed8d14bacce824d020f994f4880d6ab3b.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11453,7 +11453,7 @@
 						"Symbol": "SAFEMOON",
 						"Decimals": 9,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x8076c74c5e3f5852037f31ff0093eeb8c8add8d3.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x8076c74c5e3f5852037f31ff0093eeb8c8add8d3.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11462,7 +11462,7 @@
 						"Symbol": "𝜏BTC",
 						"Decimals": 9,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x2cD1075682b0FCCaADd0Ca629e138E64015Ba11c.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x2cD1075682b0FCCaADd0Ca629e138E64015Ba11c.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11471,7 +11471,7 @@
 						"Symbol": "HOO",
 						"Decimals": 8,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0xe1d1f66215998786110ba0102ef558b22224c016.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0xe1d1f66215998786110ba0102ef558b22224c016.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11480,7 +11480,7 @@
 						"Symbol": "ODDZ",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0xcd40f2670cf58720b694968698a5514e924f742d.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0xcd40f2670cf58720b694968698a5514e924f742d.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11489,7 +11489,7 @@
 						"Symbol": "APYS",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x37dfACfaeDA801437Ff648A1559d73f4C40aAcb7.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x37dfACfaeDA801437Ff648A1559d73f4C40aAcb7.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11498,7 +11498,7 @@
 						"Symbol": "BONDLY",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x96058f8c3e16576d9bd68766f3836d9a33158f89.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x96058f8c3e16576d9bd68766f3836d9a33158f89.png"
 					},
 					{
 						"Type": "BEP20",
@@ -11507,7 +11507,7 @@
 						"Symbol": "TKO",
 						"Decimals": 18,
 						"Chainid": 56,
-						"LogoURI": "https://exchange.pancakeswap.finance/images/coins/0x9f589e3eabe42ebc94a44727b3f3531c0c877809.png"
+						"LogoURI": "https://v1exchange.pancakeswap.finance/images/coins/0x9f589e3eabe42ebc94a44727b3f3531c0c877809.png"
 					},
 					{
 						"Type": "BEP20",
