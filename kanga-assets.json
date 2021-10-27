@@ -1,5 +1,5 @@
 {
-	"Version": 10401,
+	"Version": 10402,
 	"MainChainNum": 14,
 	"ChildChainNum": 1370,
 	"CoinInfos": [
@@ -2414,7 +2414,7 @@
 					{
 						"Type": "ERC20",
 						"Address": "0x3A880652F47bFaa771908C07Dd8673A787dAEd3A",
-						"Name": "DDX",
+						"Name": "DerivaDAO",
 						"Symbol": "DDX",
 						"Decimals": 18,
 						"Chainid": 0,
